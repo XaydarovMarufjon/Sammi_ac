@@ -6,5 +6,6 @@ const os = require('os');
 
 // console.log(os.arch()); // razshireniya  x64
 
-console.log(os.freemem()); /// kompyuterdagi   joy 
-console.log();  /// kompyuterdagi bosh joy 
+// console.log(os.freemem()); /// kompyuterdagi   joy 
+// console.log(os.totalmem());  /// kompyuterdagi bosh joy 
+
